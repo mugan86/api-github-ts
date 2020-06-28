@@ -1,0 +1,33 @@
+{
+  "name": "api-git-user",
+  "version": "1.0.0",
+  "description": "api git users",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaetano1979/api-git-user.git"
+  },
+  "keywords": [
+    "api",
+    "git",
+    "user"
+  ],
+  "author": "Gaetano Sabino <gaetano.sabino@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gaetano1979/api-git-user/issues"
+  },
+  "homepage": "https://github.com/Gaetano1979/api-git-user#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "nock": "^12.0.3"
+  }
+}
