@@ -1,6 +1,6 @@
 {
   "name": "@gaetano1979/api-git-user",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "api git users",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
