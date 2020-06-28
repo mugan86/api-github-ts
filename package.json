@@ -10,7 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gaetano1979/api-git-user.git"
+    "url": "git+https://github.com/Gaetano1979/api-git-user.git",
+    "directory": "@gaetano1979/api-git-user"
   },
   "keywords": [
     "api",
