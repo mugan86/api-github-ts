@@ -8,7 +8,3 @@ export function getUsuario(usuario: string){
     const url = `https://api.github.com/users/${usuario}`;
     return axios.get(url).then(data => data.data).catch(console.log);
 }
-
-getUsuario('gaetano1979').then(console.log);
-
-

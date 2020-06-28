@@ -1,8 +1,9 @@
 {
-  "name": "api-git-user",
+  "name": "@gaetano1979/api-git-user",
   "version": "1.0.1",
   "description": "api git users",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "test": "mocha",
     "start": "node ./dist"
