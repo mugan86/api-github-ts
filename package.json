@@ -1,6 +1,6 @@
 {
   "name": "@gaetano1979/api-git-user",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "api git users",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -11,7 +11,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Gaetano1979/api-git-user.git",
-    "directory": "@gaetano1979/api-git-user@1.0.3"
+    "directory": "gaetano1979/api-git-user"
   },
   "keywords": [
     "api",
