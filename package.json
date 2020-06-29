@@ -1,5 +1,5 @@
 {
-  "name": "@gaetano1979/api-git-user",
+  "name": "@mugan86/api-git-user",
   "version": "1.0.5",
   "description": "api git users",
   "main": "./dist/index.js",
@@ -23,6 +23,7 @@
   "bugs": {
     "url": "https://github.com/Gaetano1979/api-git-user/issues"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "homepage": "https://github.com/Gaetano1979/api-git-user#readme",
   "dependencies": {
     "axios": "^0.19.2"
@@ -31,6 +32,5 @@
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "nock": "^12.0.3"
-  },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  }
 }

@@ -1,8 +1,0 @@
-node_module/
-package-look.json
-app/
-test/
-.npmrc
-.npmingore
-
-
